@@ -1,28 +1,38 @@
-# Welcome to My GitHub Profile
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">An Aspiring Full-Stack Developer from Mexico 🇲🇽</h3>
 
-## About Me
-Hello! I'm Diego Heredia, a passionate software developer with a love for creating innovative solutions to complex problems. My expertise spans across multiple programming languages and frameworks.
+<br/>
 
-## Statistics
-- **Followers:** 150
-- **Stars:** 300
-- **Forks:** 50
+- 🌱 I’m currently learning **Next.js** and **Tailwind CSS**.
+- 👨‍💻 All of my projects are available at [diego-heredia.com](https://diego-heredia.com/).
+- 💬 Ask me about **React, Node.js, and Python**.
+- 📫 How to reach me: **[diego.heredia.ilp@gmail.com](mailto:diego.heredia.ilp@gmail.com)**.
+- ⚡ Fun fact: I love to unwind by taking pictures, swimming, or recording videos, blending my passion for technology with creative expression.
 
-## Projects Showcase
-1. **Project A:** A detailed description of Project A.
-2. **Project B:** A summary of what Project B entails.
-3. **Project C:** Insights into Project C's functionality.
+<br/>
 
-## Skills Badges
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/diego-heredia-legorreta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-heredia-legorreta" height="30" width="40" />
+  </a>
+</p>
 
-## GitHub Stats
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Heredia&show_icons=true&theme=radical)
+<br/>
 
-## Call to Action
-Feel free to reach out if you're interested in collaborating on any projects or have any questions!
+### 🛠️ Languages and Tools:
 
----
-Last updated: 2026-04-21 00:51:48 UTC
+**Frontend & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,sass,figma,illustrator" alt="Frontend and Design" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,appwrite" alt="Backend and Databases" />
+</p>
+
+**Data Science, Tools & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,gcp,docker,postman,babel,jest" alt="Tools and Cloud" />
+</p>
