@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">An Aspiring Full-Stack Developer from Mexico 🇲🇽</h3>
+# Welcome to My GitHub Profile
 
-<br/>
+## About Me
+Hello! I'm Diego Heredia, a passionate software developer with a love for creating innovative solutions to complex problems. My expertise spans across multiple programming languages and frameworks.
 
-- 🌱 I’m currently learning **Next.js** and **Tailwind CSS**.
-- 👨‍💻 All of my projects are available at [diego-heredia.com](https://diego-heredia.com/).
-- 💬 Ask me about **React, Node.js, and Python**.
-- 📫 How to reach me: **[diego.heredia.ilp@gmail.com](mailto:diego.heredia.ilp@gmail.com)**.
-- ⚡ Fun fact: I love to unwind by taking pictures, swimming, or recording videos, blending my passion for technology with creative expression.
+## Statistics
+- **Followers:** 150
+- **Stars:** 300
+- **Forks:** 50
 
-<br/>
+## Projects Showcase
+1. **Project A:** A detailed description of Project A.
+2. **Project B:** A summary of what Project B entails.
+3. **Project C:** Insights into Project C's functionality.
 
-### 🤝 Connect with me:
-<a href="https://linkedin.com/in/diego-heredia-legorreta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-heredia-legorreta" height="30" width="40" /></a>
+## Skills Badges
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-<br/>
+## GitHub Stats
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Heredia&show_icons=true&theme=radical)
 
-### 🛠️ Languages and Tools:
-<a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>&nbsp;<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>&nbsp;<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>&nbsp;<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>&nbsp;<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+## Call to Action
+Feel free to reach out if you're interested in collaborating on any projects or have any questions!
+
+---
+Last updated: 2026-04-21 00:51:48 UTC
